@@ -1,0 +1,35 @@
+{
+  "name": "Kahoot!",
+  "app_display": "Kahoot!",
+  "version": 1.0,
+  "description": "Kahoot client for BitsBox",
+  "reviews": [],
+  "privacy": {
+    "collects_data": false,
+    "tracking": [],
+    "linked_to_you": {
+      "third_party_ads": [],
+      "marketing": [],
+      "personalization": [],
+      "analytics": [],
+      "app_functionality": [],
+      "developer_feedback": [],
+      "authorization": []
+    },
+    "not_linked_to_you": {
+      "third_party_ads": [],
+      "marketing": [],
+      "personalization": [],
+      "analytics": [],
+      "app_functionality": [],
+      "developer_feedback": [],
+      "authorization": []
+    }
+  },
+  "creator": "themirrazz",
+  "creator_id": "themirrazz@bitsbox.com",
+  "icon_instructions": "fill(\"#47178f\")\nstamp(\"@com.themirrazz.kahoot:Stamp:kahoot"\)",
+  "stamps": [
+    "kahoot"
+  ]
+}
