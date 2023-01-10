@@ -23,13 +23,14 @@
       "analytics": [],
       "app_functionality": [],
       "developer_feedback": [],
-      "authorization": []
+      "authorizatbiion": []
     }
   },
   "creator": "themirrazz",
   "creator_id": "themirrazz@bitsbox.com",
   "icon_instructions": "fill(\"#47178f\")\nstamp(\"@com.themirrazz.kahoot:Stamp:kahoot"\)",
   "stamps": [
-    "kahoot"
+    "kahoot",
+    "bigkahoot"
   ]
 }
